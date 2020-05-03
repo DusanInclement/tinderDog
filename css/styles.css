@@ -112,3 +112,7 @@ p{
   padding: 5% 15%;
   text-align: center;
 }
+.card-header{
+  background-color:  #ef8172;
+  color: #fff;
+}
